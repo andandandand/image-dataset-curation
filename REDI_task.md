@@ -7,7 +7,7 @@ In this task, you will learn how to curate a dataset of images on a subject of y
 
 1. **Choose a Theme or Subject of Interest**: Select a specific theme or subject that you are interested in. It could be anything from art, animals, plants, architecture, or even abstract concepts. **Think about a problem that you would like to solve and how it would benefit from using image data**. 
 
-2. **Follow the Tutorial**: Navigate to the [tutorial on PyImageSearch](https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/) and follow the instructions provided. This tutorial will guide you through the process of collecting images from Google and organizing them into a usable dataset.
+2. **Follow the Image Scraping Tutorial**: Navigate to the [tutorial on PyImageSearch](https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/) and follow the instructions provided. This tutorial will guide you through the process of collecting images from Google and organizing them into a usable dataset.
 
 3. **Install Necessary Tools**: Ensure that you have all the required tools and libraries installed on your system as mentioned in the tutorial.
 
