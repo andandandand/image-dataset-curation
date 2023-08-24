@@ -32,6 +32,7 @@ In this task, you will learn how to curate a dataset of images on a subject of y
 * [An alternative method using Bing Image Search](https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
 * [FastAI notebooks](https://github.com/fastai/fastbook), please have a look at chapters 1 and 2 to understand how to build an image classifier. The code for these experiments can be run on Google Colab
 * [Detectron2](https://github.com/facebookresearch/detectron2) Check out its [starter notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5) to work with object detection and image segmentation in the images that you have downloaded and curated
+* Try [Cleanlab](https://github.com/cleanlab/cleanlab) on the images that you have downloaded
 * Projects from other students:
 	* [Art recommendation system](https://github.com/gargimaheshwari/Wikiart-similar-art)
 	* [Bike-lane safety guide](https://www.youtube.com/watch?v=nNMmz6Ei9Qg)
