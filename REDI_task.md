@@ -95,7 +95,8 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 - Final report detailing the process, reflections, and additional insights.  
 
 #### Additional Resources
-* [An alternative method using Bing Image Search](https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+* [Object-oriented programming in Python for beginners (video)](https://www.youtube.com/watch?v=JeznW_7DlB0) and [recommended reading](https://realpython.com/python3-object-oriented-programming/).
+* [An alternative method to download images using Bing Image Search](https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/).
 * [FastAI notebooks](https://github.com/fastai/fastbook), please have a look at chapters 1 and 2 to understand how to build an image classifier. The code for these experiments can be run on Google Colab
 * [Detectron2](https://github.com/facebookresearch/detectron2) Check out its [starter notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5) to work with object detection and image segmentation in the images that you have downloaded and curated. Think about the questions that you can answer by running an object detector on your data. How about counting the number of humans in a picture? Or if there are pools in the picture of a backyard? 
 * Try [Cleanlab](https://github.com/cleanlab/cleanlab) on the images that you have downloaded
