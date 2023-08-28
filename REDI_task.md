@@ -1,7 +1,7 @@
-### Task: Open-Ended Image Dataset Curation
+### Task: Open-Ended Image Dataset Curation and Analysis
 
 #### Objective
-In this task, you will learn how to curate a dataset of images on a subject of your interest. By following a step-by-step tutorial, you will be able to create an image dataset using Google Images and some machine learning. This open-ended project allows you to explore and curate images related to a theme that intrigues you, providing a hands-on experience in dataset creation, cleaning, and management.
+In this task, you will learn how to curate a dataset of images on a subject of your interest and then provide an analysis. By following a step-by-step tutorial, you will be able to create an image dataset using Google Images and some machine learning techniques. This open-ended project allows you to explore and curate images related to a theme that intrigues you, providing a hands-on experience in dataset creation, cleaning, and analysis.
 
 #### Instructions:
 
@@ -9,7 +9,7 @@ In this task, you will learn how to curate a dataset of images on a subject of y
 
 2. **Follow the Image Scraping Tutorial**: Navigate to the [tutorial on PyImageSearch](https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/) and follow the instructions provided. This tutorial will guide you through the process of collecting images from Google and organizing them into a usable dataset.
 
-3. **Clean Your Dataset**: As you follow the [tutorial notebooks](https://github.com/andandandand/image-dataset-curation/tree/main/notebooks), curate the images according to your chosen theme. **This is the most important part of the task and where most of your effort will go.** Pay attention to the quality and relevance of the images. If you train an image classifier, consider issues such as mislabeled or duplicated images. 
+3. **Clean Your Dataset**: As you follow the [tutorial notebooks](https://github.com/andandandand/image-dataset-curation/tree/main/notebooks), curate the images according to your chosen theme. **This is the most important part of the task and where most of your effort will go.** Pay attention to the quality and relevance of the images. If you later train an image classifier (i.e. an algorithm to label the images that you have downloaded), consider issues such as mislabeled or duplicated images. 
 
 4. **Document Your Process**: Keep a record of the steps you took, any challenges you faced, and how you overcame them. This will help you reflect on your learning experience.
 
@@ -18,9 +18,15 @@ In this task, you will learn how to curate a dataset of images on a subject of y
    - How can this dataset be used in an analytics project?
    - What considerations (ethical and practical) did you take into account while curating the dataset?
 
-6. **Submit Your Work at the End of each Sprint**: Provide the curated dataset to your mentor along with a report detailing your progress, reflections, and any additional insights you gained from this task.
+6. **Submit Your Work**: Provide the curated and analyzed dataset to your mentors along with a presentation detailing your process, reflections, and any additional insights you gained from this task.
 
-Here's how we will structure the task into four sprints, each lasting two weeks:
+#### Evaluation Criteria
+- Quality and relevance of the curated dataset.
+- Adherence to the tutorial instructions.
+- Creativity in choosing the theme or subject.
+- Depth of reflection and analysis in the final report.
+
+Here's how we would structure the task into four sprints, each lasting two weeks:
 
 ---
 
@@ -39,7 +45,7 @@ Here's how we will structure the task into four sprints, each lasting two weeks:
 - Theme or subject selection.
 - A pilot collection of images.
 - A written plan on how the theme will be approached and what problem it aims to solve.
-
+- Partial documentation through a project board in Github and Jupyter notebooks.
 ---
 
 ### Sprint 2: Data Collection and Initial Cleaning
@@ -54,6 +60,7 @@ Here's how we will structure the task into four sprints, each lasting two weeks:
 #### Key Deliverables:
 - A dataset with a substantial number of images.
 - Initial cleaning completed.
+- Partial documentation through a project board in Github and Jupyter notebooks.
 
 ---
 
@@ -69,7 +76,7 @@ Here's how we will structure the task into four sprints, each lasting two weeks:
 
 #### Key Deliverables:
 - Advanced data cleaning completed.
-- Partial documentation.
+- Partial documentation through a project board in Github and Jupyter notebooks.
 
 ---
 
@@ -84,18 +91,8 @@ Here's how we will structure the task into four sprints, each lasting two weeks:
 - **Day 4-7**: Peer reviews and project submission.
 
 #### Key Deliverables:
-- Completed analysis using clustering or a supervised learning approach (e.g., classification, detection, segmentation).
-- Final report detailing the process, reflections, and additional insights.
-
----
-
-By breaking the task into these four sprints, students can gradually build their skills while staying organized and focused. The key deliverables at the end of each sprint will help ensure that everyone is on track and achieving the objectives set out in the task description.
-
-#### Evaluation Criteria
-- Quality and relevance of the curated dataset.
-- Adherence to the tutorial instructions.
-- Creativity in choosing the theme or subject.
-- Depth of reflection and analysis in the final report.
+- Completed dataset.
+- Final report detailing the process, reflections, and additional insights.  
 
 #### Additional Resources
 * [An alternative method using Bing Image Search](https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
@@ -108,4 +105,4 @@ By breaking the task into these four sprints, students can gradually build their
   
 
 #### Note
-Please ensure that you adhere to ethical guidelines and legal requirements while curating the dataset. Respect copyright laws and consider privacy concerns related to the images you are collecting.
+Please ensure that you adhere to ethical guidelines while curating the dataset. Consider privacy concerns related to the images you are collecting.
