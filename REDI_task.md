@@ -18,7 +18,78 @@ In this task, you will learn how to curate a dataset of images on a subject of y
    - How can this dataset be used in an analytics project?
    - What considerations (ethical and practical) did you take into account while curating the dataset?
 
-6. **Submit Your Work**: Provide the curated dataset to your mentor along with a report detailing your process, reflections, and any additional insights you gained from this task.
+6. **Submit Your Work at the End of each Sprint**: Provide the curated dataset to your mentor along with a report detailing your progress, reflections, and any additional insights you gained from this task.
+
+Here's how we will structure the task into four sprints, each lasting two weeks:
+
+---
+
+### Sprint 1: Introduction and Theme Selection
+
+#### Week 1:
+- **Day 1-2**: Introduction to the project. Overview of what dataset curation means and why it is crucial in machine learning and computer vision.
+- **Day 3-4**: Brainstorming session. Discuss potential themes or subjects that students might be interested in.
+- **Day 5-7**: Finalize the theme selection and have students think about the problem they would like to solve with their dataset.
+
+#### Week 2:
+- **Day 1-3**: Introduction to web scraping for image collection. Brief overview of the tutorial on PyImageSearch.
+- **Day 4-7**: Students start following the tutorial to scrape a small set of images as a pilot.
+
+#### Key Deliverables:
+- Theme or subject selection.
+- A pilot collection of images.
+- A written plan on how the theme will be approached and what problem it aims to solve.
+
+---
+
+### Sprint 2: Data Collection and Initial Cleaning
+
+#### Week 3:
+- **Day 1-7**: Follow the PyImageSearch tutorial to scrape images. Students should aim to collect a substantial number of images.
+
+#### Week 4:
+- **Day 1-4**: Begin initial dataset cleaning. Remove any irrelevant or inappropriate images.
+- **Day 5-7**: Introduction to FastAI and how it can be used for image classification.
+
+#### Key Deliverables:
+- A dataset with a substantial number of images.
+- Initial cleaning completed.
+
+---
+
+### Sprint 3: Advanced Data Cleaning and Documentation
+
+#### Week 5:
+- **Day 1-2**: Introduction to Cleanlab and its functionalities.
+- **Day 3-7**: Use Cleanlab for advanced data cleaning.
+
+#### Week 6:
+- **Day 1-4**: Begin documenting the process, challenges faced, and how they were overcome.
+- **Day 5-7**: Introduction to Detectron2 and how it can be used for object detection.
+
+#### Key Deliverables:
+- Advanced data cleaning completed.
+- Partial documentation.
+
+---
+
+### Sprint 4: Final Analysis, Reflection, and Submission
+
+#### Week 7:
+- **Day 1-4**: Complete the documentation and start the analysis of the curated dataset.
+- **Day 5-7**: Reflection on what was learned during the project. Consider ethical and practical considerations.
+
+#### Week 8:
+- **Day 1-3**: Finalize the report and dataset.
+- **Day 4-7**: Peer reviews and project submission.
+
+#### Key Deliverables:
+- Completed analysis using clustering or a supervised learning approach (e.g., classification, detection, segmentation).
+- Final report detailing the process, reflections, and additional insights.
+
+---
+
+By breaking the task into these four sprints, students can gradually build their skills while staying organized and focused. The key deliverables at the end of each sprint will help ensure that everyone is on track and achieving the objectives set out in the task description.
 
 #### Evaluation Criteria
 - Quality and relevance of the curated dataset.
