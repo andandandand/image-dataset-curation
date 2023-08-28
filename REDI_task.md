@@ -9,18 +9,16 @@ In this task, you will learn how to curate a dataset of images on a subject of y
 
 2. **Follow the Image Scraping Tutorial**: Navigate to the [tutorial on PyImageSearch](https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/) and follow the instructions provided. This tutorial will guide you through the process of collecting images from Google and organizing them into a usable dataset.
 
-3. **Install Necessary Tools**: Ensure that you have all the required tools and libraries installed on your system as mentioned in the tutorial.
+3. **Clean Your Dataset**: As you follow the [tutorial notebooks](https://github.com/andandandand/image-dataset-curation/tree/main/notebooks), curate the images according to your chosen theme. **This is the most important part of the task and where most of your effort will go.** Pay attention to the quality and relevance of the images. If you train an image classifier, consider issues such as mislabeled or duplicated images. 
 
-4. **Clean Your Dataset**: As you follow the [tutorial notebooks](https://github.com/andandandand/image-dataset-curation/tree/main/notebooks), curate the images according to your chosen theme. **This is the most important part of the task and where most of your effort will go.** Pay attention to the quality and relevance of the images. If you train an image classifier, consider issues such as mislabeled or duplicated images. 
+4. **Document Your Process**: Keep a record of the steps you took, any challenges you faced, and how you overcame them. This will help you reflect on your learning experience.
 
-7. **Document Your Process**: Keep a record of the steps you took, any challenges you faced, and how you overcame them. This will help you reflect on your learning experience.
-
-8. **Analyze and Reflect**: Once you have curated your dataset, analyze the collection, and reflect on what you have learned. Consider questions such as:
+5. **Analyze and Reflect**: Once you have curated your dataset, analyze the collection, and reflect on what you have learned. Consider questions such as:
    - What did you find interesting about the process?
    - How can this dataset be used in an analytics project?
    - What considerations (ethical and practical) did you take into account while curating the dataset?
 
-9. **Submit Your Work**: Provide the curated dataset to your mentor along with a report detailing your process, reflections, and any additional insights you gained from this task.
+6. **Submit Your Work**: Provide the curated dataset to your mentor along with a report detailing your process, reflections, and any additional insights you gained from this task.
 
 #### Evaluation Criteria
 - Quality and relevance of the curated dataset.
