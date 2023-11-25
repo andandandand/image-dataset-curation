@@ -1,4 +1,4 @@
-# Image Dataset Curation
+# Image Dataset Curation - Art Recommendation System 
 
 Tutorial on image similarity and dataset curation. 
 
