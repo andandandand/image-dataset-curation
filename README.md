@@ -2,6 +2,13 @@
 
 Tutorial on image similarity and dataset curation. 
 
+In this repo we learn about:
+
+* Scraping artwork images from Google Images
+* Running inference on pretrained ResNet convolutional networks
+* Obtaining image embeddings
+* Using cosine similarity to compare and cluster image embeddings
+
 #### Author: Antonio Rueda-Toicen
 #### [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/)
 
