@@ -95,7 +95,7 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 ### Sprint 4: Deployment, Final Analysis, Reflection, and Submission
 
 #### Week 7:
-- **Day 1-4**: Deploy an image similarity model through Qadrant and a FastAPI endpoint.  
+- **Day 1-4**: Deploy an image similarity model through Qdrant and a FastAPI endpoint.  
 - **Day 5-7**:  Reflect on what was learned during the project. Consider ethical and practical issues.
 
 #### Week 8:
