@@ -4,7 +4,7 @@ Congratulations on completing the theoretical part and applying your knowledge i
 
 ## Project Details 
 
-Now, it's time for your real-life full project. This project offers you a unique opportunity to bring everything together. Over the course of four sprints, you will work on a project that integrates various elements, commands, and lessons from the CORE track. This project serves as the ultimate test of your skills in this AI Bootcamp. You will review the project submissions of your peers, who have also been working on the same assignment for the past two months. Your feedback and evaluation will contribute to grading their work. Participation in all phases —submitting your own project and reviewing the works of others— is essential and mandatory to receive feedback and a grade on the PROJECT track. 
+Now it's time for our real-life full project. This project offers you a unique opportunity to bring everything together. Over the course of four sprints, you will work on a project that integrates various elements, commands, and lessons from the CORE track. This project serves as the ultimate test of your skills in this AI Bootcamp. You will review the project submissions of your peers, who have also been working on the same assignment for the past two months. Your feedback and evaluation will contribute to grading their work. Participation in all phases —submitting your own project and reviewing the works of others— is essential and mandatory to receive feedback and a grade on the PROJECT track. 
 
 #### Objective
 You will learn how to curate a dataset of images on a subject of your interest and then provide an analysis. By following our step-by-step tutorials, you will be able to create an image dataset using Google Images (or other image data source of your choice) and some powerful machine learning techniques. This open-ended project allows you to explore and curate images related to a theme that intrigues you, providing a hands-on experience in dataset creation, cleaning, and analysis.
@@ -62,7 +62,7 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 
 #### Week 4:
 - **Day 1-4**: Begin initial dataset cleaning. Remove any irrelevant or inappropriate images.
-- **Day 5-7**: Introduction to FastAI and how it can be used for image classification.
+- **Day 5-7**: Introduction to FastAI and how it can be used for image classification and active learning. 
 
 #### Key Deliverables:
 - A dataset with a substantial number of images.
@@ -98,7 +98,7 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 - **Day 4-7**: Peer reviews and project submission.
 
 #### Key Deliverables:
-- Completed dataset
+- Completed cleaned dataset 
 - Analysis of classification model performance vs dataset cleanness and size 
 - Final report detailing the process, reflections, and additional insights  
 
@@ -114,5 +114,5 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 	* [Bike-lane safety guide](https://www.youtube.com/watch?v=nNMmz6Ei9Qg)
   
 
-#### Note
-Please ensure that you adhere to ethical guidelines while curating the dataset. Consider privacy concerns related to the images you are collecting. Do not download images that are subject to copyright laws. 
+## Ethics
+Please ensure that you adhere to ethical guidelines while curating your dataset. Consider privacy concerns related to the images you are collecting. Do not download images that are subject to copyright laws. 
