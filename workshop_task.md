@@ -110,11 +110,12 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 
 #### Additional Resources
 * [Object-oriented programming in Python for beginners (video)](https://www.youtube.com/watch?v=JeznW_7DlB0) and [recommended reading](https://realpython.com/python3-object-oriented-programming/).
+* [Hasso Plattner Institute's Data Science Bootcamp ](https://open.hpi.de/courses/datascience2023)
 * [MIT's Introduction to Data-Centric AI Course](https://www.youtube.com/watch?v=ayzOzZGHZy4)
 * [An alternative method to download images using Bing Image Search](https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/).
 * [FastAI notebooks](https://github.com/fastai/fastbook), please look at chapters 1 and 2 to understand how to build an image classifier. The code for these experiments can run on Google Colab.
 * [Detectron2](https://github.com/facebookresearch/detectron2) Check out its [starter notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5) for object detection and image segmentation in the images you've downloaded and curated. Think about questions you can answer by running an object detector on your data. How about counting the number of humans in a picture? Or if there are pools in a backyard picture?
-* Try [Cleanlab](https://github.com/cleanlab/cleanlab) on the images you've downloaded.
+* Remember to try [Cleanlab](https://github.com/cleanlab/cleanlab) on the images you've downloaded.
 * Projects from other students:
 	* [Art recommendation system](https://github.com/gargimaheshwari/Wikiart-similar-art)
 	* [Bike-lane safety guide](https://www.youtube.com/watch?v=nNMmz6Ei9Qg)
