@@ -100,6 +100,7 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 #### Key Deliverables:
 - Completed cleaned dataset 
 - Analysis of classification model performance vs dataset cleanness and size 
+- Comparison of trained classifiers vs zero-shot learning with CLIP
 - Final report detailing the process, reflections, and additional insights  
 
 #### Additional Resources
