@@ -1,7 +1,13 @@
-### Task: Open-Ended Image Dataset Curation and Analysis
+# PROJECT - Open-Ended Image Dataset Curation and Analysis
+
+Congratulations on completing the theoretical part and applying your knowledge in the exercises in our notebooks. 
+
+## Project Details 
+
+Now, it's time for your real-life full project. This project offers you a unique opportunity to bring everything together. Over the course of four sprints, you will work on a project that integrates various elements, commands, and lessons from the CORE track. This project serves as the ultimate test of your skills in this AI Bootcamp. You will review the project submissions of your peers, who have also been working on the same assignment for the past two months. Your feedback and evaluation will contribute to grading their work. Participation in all phases —submitting your own project and reviewing the works of others— is essential and mandatory to receive feedback and a grade on the PROJECT track. 
 
 #### Objective
-In this task, you will learn how to curate a dataset of images on a subject of your interest and then provide an analysis. By following a step-by-step tutorial, you will be able to create an image dataset using Google Images and some machine learning techniques. This open-ended project allows you to explore and curate images related to a theme that intrigues you, providing a hands-on experience in dataset creation, cleaning, and analysis.
+You will learn how to curate a dataset of images on a subject of your interest and then provide an analysis. By following our step-by-step tutorials, you will be able to create an image dataset using Google Images (or other image data source of your choice) and some powerful machine learning techniques. This open-ended project allows you to explore and curate images related to a theme that intrigues you, providing a hands-on experience in dataset creation, cleaning, and analysis.
 
 #### Instructions:
 
@@ -106,4 +112,4 @@ Here's how we would structure the task into four sprints, each lasting two weeks
   
 
 #### Note
-Please ensure that you adhere to ethical guidelines while curating the dataset. Consider privacy concerns related to the images you are collecting.
+Please ensure that you adhere to ethical guidelines while curating the dataset. Consider privacy concerns related to the images you are collecting. Do not download images that are subject to copyright laws. 
