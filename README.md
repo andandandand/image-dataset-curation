@@ -1,6 +1,8 @@
 # Image Dataset Curation - Art Recommendation System 
 
-Tutorial on image similarity and dataset curation. 
+Tutorial on image similarity,  and dataset curation. 
+
+![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 In this repo we learn about:
 
