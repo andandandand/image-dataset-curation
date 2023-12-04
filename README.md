@@ -2,7 +2,6 @@
 
 Tutorial on image similarity,  and dataset curation. 
 
-![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 In this repo we learn about:
 
@@ -12,7 +11,7 @@ In this repo we learn about:
 * Using cosine similarity to compare and cluster image embeddings
 * Visualizing image vector spaces using Tensorboard
 
-  ![](https://raw.githubusercontent.com/andandandand/image-dataset-curation/main/tensorboard_img.png)
+![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 #### Author: Antonio Rueda-Toicen
 #### [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/)
