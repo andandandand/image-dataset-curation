@@ -70,7 +70,7 @@ Here's how we would structure the task into four sprints, each lasting two weeks
 
 ---
 
-### Sprint 3: Advanced Data Cleaning and Documentation
+### Sprint 3: Advanced Data Cleaning and Metadata Extraction
 
 #### Week 5:
 - **Day 1-2**: Introduction to Cleanlab and its functionalities.
