@@ -1,0 +1,105 @@
+- Leonardo da Vinci
+- Michelangelo
+- Pablo Picasso
+- Vincent van Gogh
+- Rembrandt van Rijn
+- Claude Monet
+- Salvador Dalí
+- Caravaggio
+- Andy Warhol
+- Johannes Vermeer
+- Jackson Pollock
+- Raphael
+- Gustav Klimt
+- Henri Matisse
+- Georgia O'Keeffe
+- Frida Kahlo
+- Sandro Botticelli
+- Edvard Munch
+- Peter Paul Rubens
+- Wassily Kandinsky
+- Albrecht Dürer
+- Marc Chagall
+- Titian
+- Jan van Eyck
+- Francisco Goya
+- Diego Velázquez
+- Paul Cézanne
+- Édouard Manet
+- Gustave Courbet
+- Pierre-Auguste Renoir
+- Hieronymus Bosch
+- Kazimir Malevich
+- El Greco
+- Joan Miró
+- Egon Schiele
+- Paul Gauguin
+- Jean-Michel Basquiat
+- Henri de Toulouse-Lautrec
+- Damien Hirst
+- Artemisia Gentileschi
+- Paul Klee
+- Joseph Turner
+- Lucian Freud
+- Roy Lichtenstein
+- John Constable
+- Giotto di Bondone
+- Grant Wood
+- Rene Magritte
+- William Blake
+- Mary Cassatt
+- Max Ernst
+- Gustave Moreau
+- Cy Twombly
+- Jasper Johns
+- Edward Hopper
+- Bruegel the Elder
+- Jean-Auguste-Dominique Ingres
+- James Whistler
+- John Singer Sargent
+- Donatello
+- Thomas Gainsborough
+- Willem de Kooning
+- Giorgione
+- Mark Rothko
+- Marcel Duchamp
+- Camille Pissarro
+- Fra Angelico
+- Anselm Kiefer
+- George Bellows
+- Tintoretto
+- Hans Holbein the Younger
+- Francisco de Zurbarán
+- Tamara de Lempicka
+- Gerhard Richter
+- David Hockney
+- Amedeo Modigliani
+- Edward Burne-Jones
+- Richard Diebenkorn
+- Ai Weiwei
+- Yayoi Kusama
+- Keith Haring
+- Gustav Moreau
+- Anish Kapoor
+- Barbara Hepworth
+- Fernando Botero
+- Balthus
+- Chuck Close
+- Agnes Martin
+- Lucio Fontana
+- Bridget Riley
+- Jean Dubuffet
+- Man Ray
+- Cai Guo-Qiang
+- Antonio Canova
+- Jean-Baptiste Camille Corot
+- Louise Bourgeois
+- James Turrell
+- Jeff Koons
+- Francis Bacon
+- Jean-Antoine Watteau
+- Hokusai
+- Hiroshige
+- Bansky
+- MC Escher
+- Rembrandt
