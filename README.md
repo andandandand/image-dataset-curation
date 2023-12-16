@@ -4,7 +4,7 @@ Tutorial on image similarity and dataset curation.
 
 In this repo we learn about:
 
-* [Scraping artwork images from Google Images](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part1_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
+* [Scraping artwork from Google Images](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part1_Downloading_Images_to_Google_Drive_and_Creating_Embeddings.ipynb)
 * [Obtaining image embeddings from a ResNet on PyTorch](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part2_Image_Similarity_of_Street_Artwork.ipynb)
 * [Using cosine similarity to compare and cluster image embeddings](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part2_Image_Similarity_of_Street_Artwork.ipynb)
 * [Visualizing image vector spaces using Tensorboard](https://github.com/andandandand/image-dataset-curation/blob/main/notebooks/Tutorial_Part3_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
