@@ -1,6 +1,6 @@
 # Image Dataset Curation - Art Recommendation System 
 
-Tutorial on image similarity and dataset curation. 
+Tutorial on image similarity and dataset curation from the [Google DevFest On Campus at the Technical University Berlin](https://gdsc.community.dev/events/details/developer-student-clubs-technische-universitat-berlin-presents-devfest-on-campus-at-technical-university-berlin/) (December 16th, 2023). 
 
 In this repo we learn about:
 
