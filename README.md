@@ -14,6 +14,7 @@ In this repo we learn about:
 ![](https://github.com/andandandand/image-dataset-curation/blob/main/images/tensorboard_img.png)
 
 #### Author: Antonio Rueda-Toicen
+#### [AI Service Center at the Hasso Plattner Institute](https://hpi.de/kisz/home.html)
 #### [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/)
 
 **antonio.rueda.toicen 'at' gmail 'dot' com**
